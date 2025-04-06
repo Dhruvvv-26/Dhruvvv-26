@@ -1,5 +1,25 @@
-# 💫 About Me:
-👋 Hey there! I'm Dhruv Gupta<br>Computer Science Student | Frontend Developer | Passionate Programmer | Let's Innovate Together! 🚀<br>🎓 2nd-year B.Tech Student at SRM Institute of Science and Technology (SRMIST)<br><br>🔧 About Me<br>I'm a tech enthusiast and lifelong learner, currently pursuing my B.Tech in Computer Science. I’m deeply passionate about building innovative solutions, writing clean code, and continuously improving through learning and collaboration.<br><br>💻 Tech Stack & Skills<br><br>Languages: C, C++, Java<br><br>Frontend: HTML, CSS, JavaScript<br><br>Tools & Technologies: Git, GitHub, VS Code<br><br>🌱 Currently Learning<br><br>React.js<br><br>Data Structures & Algorithms<br><br>Exploring backend technologies to become a full-stack dev<br><br>🤝 Let's Connect!<br>I'm always looking to collaborate on exciting projects, contribute to open source, or just have great tech conversations. Let’s build something amazing together!
+# 💫 About Me  
+
+👋 Hi, I'm **Dhruv Gupta**—a passionate **Computer Science student** and **frontend developer** with a knack for problem-solving and creating seamless digital experiences. Currently pursuing my **B.Tech in Computer Science** at **SRM Institute of Science and Technology (SRMIST)**, I thrive on turning ideas into reality through clean, efficient code.  
+
+## 🚀 What Drives Me?  
+- A relentless curiosity for **emerging technologies** and **best coding practices**.  
+- A love for **building intuitive, user-friendly interfaces** that make an impact.  
+- A commitment to **continuous learning**—always expanding my skill set and pushing boundaries.  
+
+## 💡 Tech Stack & Skills  
+- **Languages:** C, C++, Java  
+- **Frontend Development:** HTML, CSS, JavaScript  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Soft Skills:** Problem-solving, teamwork, effective communication  
+
+## 🌱 Currently Leveling Up  
+- **Frontend Frameworks:** React.js (building dynamic, responsive UIs)  
+- **Core CS Fundamentals:** DSA (sharpening problem-solving skills)  
+- **Backend Exploration:** Preparing to dive into full-stack development  
+
+## 🤝 Let’s Collaborate!  
+I’m always open to **exciting projects, hackathons, or open-source contributions**. Whether it's brainstorming ideas, debugging code, or discussing the latest tech trends—**let’s connect and create something amazing together!**
 
 
 ## 🌐 Socials:
