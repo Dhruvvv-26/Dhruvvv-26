@@ -26,11 +26,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  NAME     ›  Dhruv Gupta                                            ║
-║  DEGREE   ›  B.Tech Computer Science @ SRMIST  |  CGPA: 9.55/10    ║
-║  DOMAIN   ›  Applied ML · Cybersecurity · Infrastructure            ║
-║  GOAL     ›  2027 ML / Security Engineering Roles                   ║
-║  EDGE     ›  I don't prototype — I deploy. Metrics or it didn't     ║
+║  NAME     ›  Dhruv Gupta                                             ║
+║  DEGREE   ›  B.Tech Computer Science @ SRMIST  |  CGPA: 9.55/10      ║
+║  DOMAIN   ›  Applied ML · Cybersecurity · Infrastructure             ║
+║  GOAL     ›   ML / Security Engineering Roles                        ║
+║  EDGE     ›  I don't prototype — I deploy. Metrics or it didn't      ║
 ║              happen.                                                 ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
